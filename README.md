@@ -14,6 +14,14 @@ Users can view the menu, select items case-insensitively, add them to a cart, an
 - 🛒 Cart system with multiple items
 - 💵 Automatic total bill calculation
 
+- 📂 Project Structure
+
+pizza_concission_python/
+│
+├── pizza_concession.py   # Main source code
+└── README.md             # Project documentation
+
+
 ## How to Run
 1. Make sure Python 3 is installed on your system.
 2. Clone this repository:
