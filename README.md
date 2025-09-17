@@ -18,9 +18,6 @@ Users can view the menu, select items case-insensitively, add them to a cart, an
 1. Make sure Python 3 is installed on your system.
 2. Clone this repository:
    git clone https://github.com/btwitravi/pizza_concession_python.git
-## 📓 Jupyter Notebook
-You can also view and run this project in Jupyter Notebook:  
-[Pizza Concession.ipynb (2)](Pizza%20Concession.ipynb (2))
 
 ## 📌 Sample Output
 --------------------------------- Menu -------------------------
@@ -52,3 +49,9 @@ Cheese Pizza
 Cheese & Corn Pizza
 ----------------------------------------------------------------
 Your Total is Rs.2177.00
+
+# 🛠️ Technologies Used
+
+Python 3.x (core logic)
+
+Console I/O (user interaction)
