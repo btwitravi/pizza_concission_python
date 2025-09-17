@@ -14,5 +14,4 @@ Users can view the menu, select items case-insensitively, add them to a cart, an
 ## How to Run
 1. Make sure Python 3 is installed on your system.
 2. Clone this repository:
-   ```bash
-   git clone <https://github.com/btwitravi/pizza_concission_python/tree/main>
+   git clone https://github.com/btwitravi/pizza_concission_python/tree/main
