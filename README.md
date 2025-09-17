@@ -14,14 +14,6 @@ Users can view the menu, select items case-insensitively, add them to a cart, an
 - 🛒 Cart system with multiple items
 - 💵 Automatic total bill calculation
 
-- 📂 Project Structure
-
-pizza_concission_python
-│
-├── pizza_concession.py  
-└── README.md             
-
-
 ## How to Run
 1. Make sure Python 3 is installed on your system.
 2. Clone this repository:
@@ -31,7 +23,6 @@ You can also view and run this project in Jupyter Notebook:
 [Pizza Concession.ipynb (2)](Pizza%20Concession.ipynb (2))
 
 ## 📌 Sample Output
-
 --------------------------------- Menu -------------------------
 Marghretia Pizza                    - Rs.399.00
 Cheese & Corn Pizza                 - Rs.499.00
@@ -44,25 +35,20 @@ Veggies Paradise Pizza              - Rs.699.00
 Cheese Dominator Pizza              - Rs.839.00
 Cheese Pizza                        - Rs.839.00
 ----------------------------------------------------------------
-
-Select an item (q for quit): Burger  
-❌ Item Not Available please choose from the menu  
-
-Select an item (q for quit): Cheese Dominator pizza  
-✅ Cheese Dominator Pizza is added to cart!  
-
-Select an item (q for quit): Cheese pizza  
-✅ Cheese Pizza is added to cart!  
-
-Select an item (q for quit): Fry Rice  
-❌ Item Not Available please choose from the menu  
-
-Select an item (q for quit): Cheese & Corn pizza  
-✅ Cheese & Corn Pizza is added to cart!  
-
-Select an item (q for quit): q  
-
+Select an item (q for quite): Burger 
+❌Item Not Available please choose from the menu
+Select an item (q for quite): Cheese Dominator pizza 
+✅Cheese Dominator Pizza is added to cart!
+Select an item (q for quite): Cheese pizza 
+✅Cheese Pizza is added to cart!
+Select an item (q for quite): Fry Rice 
+❌Item Not Available please choose from the menu
+Select an item (q for quite): Cheese & Corn pizza 
+✅Cheese & Corn Pizza is added to cart!
+Select an item (q for quite): Q
 ------------------------- Your Order ---------------------------
-Cheese Dominator Pizza  
-Cheese Pizza  
+Cheese Dominator Pizza
+Cheese Pizza
 Cheese & Corn Pizza
+----------------------------------------------------------------
+Your Total is Rs.2177.00
