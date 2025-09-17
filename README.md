@@ -50,13 +50,20 @@ Cheese & Corn Pizza
 ----------------------------------------------------------------
 Your Total is Rs.2177.00
 
-# 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Python 3.x (core logic)
 
 Console I/O (user interaction)
 
-# 📜 License
+## 📜 License
 
 This project is licensed under the MIT License – you’re free to use, modify, and distribute it.
+
+## 👨‍💻 Author
+
+**Ravi Kumar Gupta**  
+- 📧 Email: [Ravikumargupta462@gmail.com](mailto:Ravikumargupta462@gmail.com)  
+- 🔗 LinkedIn: [Ravi Kumar Gupta](https://www.linkedin.com/in/ravi-kumar-gupta-161745247/)  
+- 🐙 GitHub: [@btwitravi](https://github.com/btwitravi)
 
