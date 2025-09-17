@@ -1,4 +1,7 @@
 # pizza_concession_python 🍕 
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Active-success.svg)
 # Objective 
 
 A simple Python-based console project that simulates a pizza ordering system.  
