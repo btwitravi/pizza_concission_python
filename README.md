@@ -55,3 +55,8 @@ Your Total is Rs.2177.00
 Python 3.x (core logic)
 
 Console I/O (user interaction)
+
+# 📜 License
+
+This project is licensed under the MIT License – you’re free to use, modify, and distribute it.
+
