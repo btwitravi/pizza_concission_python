@@ -21,3 +21,40 @@ Users can view the menu, select items case-insensitively, add them to a cart, an
 ## 📓 Jupyter Notebook
 You can also view and run this project in Jupyter Notebook:  
 [Pizza Concession.ipynb (2)](Pizza%20Concession.ipynb (2))
+
+## 📌 Sample Output
+
+--------------------------------- Menu -------------------------
+Marghretia Pizza                    - Rs.399.00
+Cheese & Corn Pizza                 - Rs.499.00
+Cheese & Tomato Pizza               - Rs.499.00
+Double Cheese & Marghretia Pizza    - Rs.539.00
+Fresh Veggies Pizza                 - Rs.539.00
+Farmhouse Pizza                     - Rs.599.00
+Preppy paneer pizza                 - Rs.599.00
+Veggies Paradise Pizza              - Rs.699.00
+Cheese Dominator Pizza              - Rs.839.00
+Cheese Pizza                        - Rs.839.00
+----------------------------------------------------------------
+
+Select an item (q for quit): Burger  
+❌ Item Not Available please choose from the menu  
+
+Select an item (q for quit): Cheese Dominator pizza  
+✅ Cheese Dominator Pizza is added to cart!  
+
+Select an item (q for quit): Cheese pizza  
+✅ Cheese Pizza is added to cart!  
+
+Select an item (q for quit): Fry Rice  
+❌ Item Not Available please choose from the menu  
+
+Select an item (q for quit): Cheese & Corn pizza  
+✅ Cheese & Corn Pizza is added to cart!  
+
+Select an item (q for quit): q  
+
+------------------------- Your Order ---------------------------
+Cheese Dominator Pizza  
+Cheese Pizza  
+Cheese & Corn Pizza
