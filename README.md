@@ -18,8 +18,8 @@ Users can view the menu, select items case-insensitively, add them to a cart, an
 
 pizza_concission_python/
 │
-├── pizza_concession.py   # Main source code
-└── README.md             # Project documentation
+├── pizza_concession.py  
+└── README.md             
 
 
 ## How to Run
