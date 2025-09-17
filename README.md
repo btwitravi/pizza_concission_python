@@ -15,3 +15,7 @@ Users can view the menu, select items case-insensitively, add them to a cart, an
 1. Make sure Python 3 is installed on your system.
 2. Clone this repository:
    git clone https://github.com/btwitravi/pizza_concession_python.git
+3. Navigate to the project folder:
+   cd pizza_concission_python
+4. Run the script
+   python pizza_concession.py
