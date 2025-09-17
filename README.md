@@ -20,4 +20,4 @@ Users can view the menu, select items case-insensitively, add them to a cart, an
    git clone https://github.com/btwitravi/pizza_concession_python.git
 ## 📓 Jupyter Notebook
 You can also view and run this project in Jupyter Notebook:  
-[Pizza Concession.ipynb](Pizza%20Concession.ipynb)
+[Pizza Concession.ipynb](Pizza%20Concession.ipynb (2))
