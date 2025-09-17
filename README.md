@@ -1,4 +1,4 @@
-# pizza_concission_python 🍕 
+# pizza_concession_python 🍕 
 # Objective 
 
 A simple Python-based console project that simulates a pizza ordering system.  
@@ -14,4 +14,4 @@ Users can view the menu, select items case-insensitively, add them to a cart, an
 ## How to Run
 1. Make sure Python 3 is installed on your system.
 2. Clone this repository:
-   git clone https://github.com/btwitravi/pizza_concission_python.git
+   git clone https://github.com/btwitravi/pizza_concession_python.git
